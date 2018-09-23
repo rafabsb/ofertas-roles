@@ -1,6 +1,5 @@
 ---
 dependencies:
-  - src: geerlingguy.ansible
   - src: git+https://github.com/rafabsb/ansible-role-composer
     version: 1.7.2
     name: composer
